@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32819.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elevate.old", "Elevate.old.csproj", "{BD74E8AB-E9A5-4083-AA0D-D09EADC0A8A7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elevate", "..\Elevate\Elevate.csproj", "{10DE648C-CECA-4EE0-B8FE-427DEAEC95F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BD74E8AB-E9A5-4083-AA0D-D09EADC0A8A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD74E8AB-E9A5-4083-AA0D-D09EADC0A8A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD74E8AB-E9A5-4083-AA0D-D09EADC0A8A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10DE648C-CECA-4EE0-B8FE-427DEAEC95F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10DE648C-CECA-4EE0-B8FE-427DEAEC95F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10DE648C-CECA-4EE0-B8FE-427DEAEC95F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10DE648C-CECA-4EE0-B8FE-427DEAEC95F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
