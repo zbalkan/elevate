@@ -8,7 +8,7 @@
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Elevate</RootNamespace>
-    <AssemblyName>Elevate</AssemblyName>
+    <AssemblyName>Elevate.old</AssemblyName>
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>..\Shared\Wintellect.Debugging.SNK</AssemblyOriginatorKeyFile>
     <FileUpgradeFlags>
